@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Naman Modi — AI, web and business systems</title>
+  <desc id="desc">Founder of eBuilderz. Strategy, design and team delivery. A charcoal banner with lime and lavender accents and a connected systems diagram.</desc>
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#24272b"/>
+      <stop offset="1" stop-color="#171a1e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="560" rx="28" fill="#17191c"/>
+  <rect width="1600" height="560" rx="28" fill="url(#grid)"/>
+  <path d="M28 0H1572Q1600 0 1600 28V7H0V28Q0 0 28 0" fill="#d4f77d"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="68" y="56" width="267" height="40" rx="20" fill="#d4f77d"/>
+    <text x="201.5" y="82" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="2" fill="#1b2113">NAMAN / EBUILDERZ</text>
+    <text x="64" y="204" font-size="100" font-weight="700" letter-spacing="-4" fill="#f5f5f0">Naman Modi<tspan fill="#d4f77d">.</tspan></text>
+    <text x="68" y="270" font-size="34" fill="#e7e7df">AI automation. Web experiences.</text>
+    <text x="68" y="318" font-size="34" fill="#e7e7df">Business systems.</text>
+    <rect x="68" y="359" width="62" height="4" rx="2" fill="#c5b4ed"/>
+    <text x="68" y="409" font-size="23" fill="#b8bcc1">Strategy, design &amp; team delivery.</text>
+    <text x="68" y="495" font-size="19" fill="#a4aaaf">FOUNDER, EBUILDERZ</text>
+    <text x="773" y="495" text-anchor="end" font-size="19" fill="#c5b4ed">namanmodi.com ↗</text>
+
+    <rect x="905" y="56" width="627" height="448" rx="22" fill="url(#panel)" stroke="#383c41"/>
+    <text x="939" y="98" font-size="15" font-weight="700" letter-spacing="3" fill="#959da5">FROM IDEA TO CONNECTED SYSTEM</text>
+    <path d="M1062 204H1172Q1200 204 1200 232V286H1369" fill="none" stroke="#c5b4ed" stroke-width="3"/>
+    <path d="M1062 368H1150Q1178 368 1178 340V286" fill="none" stroke="#d4f77d" stroke-width="3"/>
+    <rect x="939" y="150" width="233" height="108" rx="16" fill="#c5b4ed"/>
+    <text x="963" y="184" font-size="14" letter-spacing="2" fill="#40324f">01 / EXPERIENCE</text>
+    <text x="963" y="226" font-size="29" font-weight="700" fill="#221b2d">Web &amp; design</text>
+    <rect x="939" y="314" width="233" height="108" rx="16" fill="#d4f77d"/>
+    <text x="963" y="348" font-size="14" letter-spacing="2" fill="#415029">02 / OPERATIONS</text>
+    <text x="963" y="390" font-size="26" font-weight="700" fill="#202a15">AI &amp; workflows</text>
+    <rect x="1240" y="232" width="258" height="108" rx="16" fill="#30363b" stroke="#65716a"/>
+    <text x="1264" y="266" font-size="14" letter-spacing="2" fill="#b7bfc5">03 / CONNECTION</text>
+    <text x="1264" y="308" font-size="24" font-weight="700" fill="#f3f4ed">Business systems</text>
+    <circle cx="1200" cy="286" r="7" fill="#d4f77d"/>
+    <text x="939" y="470" font-size="17" fill="#a9b1b8">Designed around the way your business works.</text>
+  </g>
+</svg>
